@@ -31,7 +31,7 @@ This project focuses on forecasting future sales using historical sales data. Th
 - Decision Tree Regressor
 
 ## 🏆 Best Performing Model
-- **Random Forest Regressor** achieved the highest accuracy and lowest error compared to other models.
+- **Random Forest Regressor** achieved the highest accuracy of approx. 0.79 and lowest error compared to other models.
 - Model performance was evaluated using metrics such as **R² Score**, **MAE**, and **RMSE**.
 
 ## 📂 Project Workflow
